@@ -42,6 +42,13 @@ https://github.com/Josh-health/Portfolio-Data-Analysis/blob/main/BlinkIT%20Groce
 2. Use Pivot Tables and Charts to explore sales trends.
 3. Modify the dashboard to test different filters and insights.
 
+### Contact
+For any questions or collaborations, feel free to reach out:  
+Your LinkedIn
+GitHub:
+Email: jadegbola929@gmail.com
+
+
 
 
 
