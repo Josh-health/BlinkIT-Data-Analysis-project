@@ -45,7 +45,7 @@ https://github.com/Josh-health/Portfolio-Data-Analysis/blob/main/BlinkIT%20Groce
 ### Contact
 For any questions or collaborations, feel free to reach out:  
 Your LinkedIn: www.linkedin.com/in/joshua-egbeyemi-43b641220
-GitHub:
+GitHub: https://github.com/Josh-health
 Email: jadegbola929@gmail.com
 
 
