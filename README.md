@@ -34,6 +34,9 @@ The primary dataset used for this analysis is the "BlinkIT Grocery Data Excel.xl
 ### Dashboard
 BlinkIT Dashboard: https://github.com/Josh-health/Portfolio-Data-Analysis/commit/efd27af2bf8d517f5504ab858c2f55242fb01110
 
+### BlinkIT Excel Project
+https://github.com/Josh-health/Portfolio-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
+
 ### How to Use
 1. Download the dataset and open it in Excel.
 2. Use Pivot Tables and Charts to explore sales trends.
