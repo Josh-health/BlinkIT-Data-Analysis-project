@@ -1,2 +1,43 @@
-# Portfolio-Data-Analysis
-This is my Data Analytics portfolio where I share projects that break down real-world problems using data. I will be adding more as I grow, so feel free to explore!
+# BlinkIT Grocery 
+
+### Project Overview
+This project analyzes the BlinkIT dataset to uncover trends in sales, product performance, and outlet distribution performance.
+The analysis was done using Excel, including Pivot Tables, Charts, and a Dashboard.
+
+### Dataset
+The dataset contains transaction records, including:
+- Item Fat Content	
+- Serial Number	
+- Item Identifier	
+- Item Type	
+- Outlet Establishment Year	
+- Outlet Identifier	
+- Outlet Location Type	
+- Outlet Size
+- Outlet Type	
+- Item Visibility	
+- Item Weight	
+- Sales	Rating
+
+### Data Source
+The primary dataset used for this analysis is the "BlinkIT Grocery Data Excel.xlsx"
+
+### Tools Used
+- Microsoft Excel (Pivot Tables, Charts, Dashboards)
+
+### Key Insights
+- Total Sales: $1.20M
+- No of Items sold: 8523
+- Average Sales: $141
+- Average Ratings: 4.0
+
+### Dashboard
+
+
+
+
+
+
+
+
+
