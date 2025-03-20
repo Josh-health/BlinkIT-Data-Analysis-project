@@ -5,7 +5,7 @@ This project analyzes the BlinkIT dataset to uncover trends in sales, product pe
 The analysis was done using Excel, including Pivot Tables, Charts, and a Dashboard.
 
 ### Dataset
-The dataset contains transaction records, including:
+The dataset contains records, including:
 - Item Fat Content	
 - Serial Number	
 - Item Identifier	
@@ -43,10 +43,10 @@ https://github.com/Josh-health/Portfolio-Data-Analysis/blob/main/BlinkIT%20Groce
 3. Modify the dashboard to test different filters and insights.
 
 ### Contact
-For any questions or collaborations, feel free to reach out:  
-Your LinkedIn: www.linkedin.com/in/joshua-egbeyemi-43b641220
-GitHub: https://github.com/Josh-health
-Email: jadegbola929@gmail.com
+For any questions or collaborations, feel free to reach out:
+- Your LinkedIn: www.linkedin.com/in/joshua-egbeyemi-43b641220
+- GitHub: https://github.com/Josh-health
+- Email: jadegbola929@gmail.com
 
 
 
