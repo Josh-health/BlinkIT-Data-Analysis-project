@@ -17,7 +17,8 @@ The dataset contains records, including:
 - Outlet Type	
 - Item Visibility	
 - Item Weight	
-- Sales	Rating
+- Sales
+- Rating
 
 ### Data Source
 The primary dataset used for this analysis is the "BlinkIT Grocery Data Excel.xlsx"
