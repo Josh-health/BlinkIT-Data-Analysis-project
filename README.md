@@ -36,7 +36,7 @@ The primary dataset used for this analysis is the "BlinkIT Grocery Data Excel.xl
 ![BlinkIt Dashboard](https://github.com/Josh-health/BlinkIT-Data-Analysis-project/blob/main/BlinkIT.PNG)
 
 ### BlinkIT Excel Project
-https://github.com/Josh-health/Portfolio-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
+[Click here to access BlinkIT Excel File](https://github.com/Josh-health/BlinkIT-Data-Analysis-project/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx)
 
 ### How to Use
 1. Download the dataset and open it in Excel.
